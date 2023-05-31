@@ -1,5 +1,0 @@
-A fast way to block `.zip` and `.mov` domains from name resolution from your windows pc.
-
-Run the script in a powershell with elevated privileges.
-
-Warning: I'm not that familliar with networking. You should probably do something else, when running a local dns server, like pihole for example.
